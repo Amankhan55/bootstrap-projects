@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .reg-body{
-    background-image: url(../images/dark_old_house.jpg);
+    background-image: url(../images/background2.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Times New Roman', Times, serif;
@@ -22,7 +22,7 @@
 }
 .p-class{
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 18px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
